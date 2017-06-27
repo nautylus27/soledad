@@ -1,0 +1,12 @@
+{
+    "name": "phamton/ficho",
+    "authors": [
+        {
+            "name": "israel",
+            "email": "israeltaraona@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^6.1"
+    }
+}
