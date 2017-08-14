@@ -118,13 +118,13 @@ AppAsset::register($this);
                                             <span style="color: #FFFFFF; margin-left: 79px"> Registros</span>
                                         </div>
                                         <ul id="main-menu" class="main-menu ng-scope" >
-                                            <li class="ng-scope has-sub expanded">
+                                            <li class="ng-scope ">
                                                 <a href="#/app/dashboard" class="ng-scope">
                                                     <i ng-if="item.icon" class="linecons-cog"></i>
                                                     <span class="title ng-binding ng-scope">Control y seguimiento</span>
                                                 </a>
 
-                                                <ul  class="ng-scope" style="display: block;">
+                                                <ul  class="ng-scope">
                                                     <li  class="ng-scope">
                                                         <a href="/payment/index"  class="ng-scope">
                                                             <span class="title ng-binding ng-scope">Pago y asignación de registro</span>
